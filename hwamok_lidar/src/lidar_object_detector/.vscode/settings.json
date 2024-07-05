@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/foscar/hwamok_lidar/devel/lib/python3/dist-packages",
+        "/home/foscar/junho_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/foscar/hwamok_lidar/devel/lib/python3/dist-packages",
+        "/home/foscar/junho_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

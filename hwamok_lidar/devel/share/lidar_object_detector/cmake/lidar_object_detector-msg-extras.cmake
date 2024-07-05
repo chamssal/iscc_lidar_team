@@ -1,0 +1,2 @@
+set(lidar_object_detector_MESSAGE_FILES "/home/foscar/hwamok_lidar/src/lidar_object_detector/msg/Waypoint.msg;/home/foscar/hwamok_lidar/src/lidar_object_detector/msg/Boundingbox.msg;/home/foscar/hwamok_lidar/src/lidar_object_detector/msg/DriveValues.msg;/home/foscar/hwamok_lidar/src/lidar_object_detector/msg/Delivery.msg;/home/foscar/hwamok_lidar/src/lidar_object_detector/msg/DynamicVelocity.msg;/home/foscar/hwamok_lidar/src/lidar_object_detector/msg/TrafficCone.msg")
+set(lidar_object_detector_SERVICE_FILES "")

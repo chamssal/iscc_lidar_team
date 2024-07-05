@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/foscar/hwamok_lidar/devel/include/**",
+        "/home/foscar/junho_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/foscar/junho_ws/src/fast_gicp/include/**",
+        "/home/foscar/junho_ws/src/hdl_graph_slam/include/**",
+        "/home/foscar/junho_ws/src/lidar_object_detection/include/**",
+        "/home/foscar/hwamok_lidar/src/lidar_team_1/include/**",
+        "/home/foscar/junho_ws/src/ndt_omp/include/**",
+        "/home/foscar/junho_ws/src/track_race/include/**",
+        "/home/foscar/hwamok_lidar/src/velodyne/velodyne_driver/include/**",
+        "/home/foscar/hwamok_lidar/src/velodyne/velodyne_laserscan/include/**",
+        "/home/foscar/hwamok_lidar/src/velodyne/velodyne_pcl/include/**",
+        "/home/foscar/hwamok_lidar/src/velodyne/velodyne_pointcloud/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

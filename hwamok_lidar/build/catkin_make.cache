@@ -1,0 +1,2 @@
+lidar_object_detector:velodyne/velodyne:velodyne/velodyne_driver:velodyne/velodyne_laserscan:velodyne/velodyne_msgs:velodyne/velodyne_pcl:velodyne/velodyne_pointcloud:waypoint_maker
+-DCATKIN_DEVEL_PREFIX=/home/foscar/hwamok_lidar/devel -DCMAKE_INSTALL_PREFIX=/home/foscar/hwamok_lidar/install -G Unix Makefiles

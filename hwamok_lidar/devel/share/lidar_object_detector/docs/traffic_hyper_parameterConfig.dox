@@ -1,0 +1,21 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~traffic_minPoints" : \b [int] traffic_minPoints min: 1, default: 10, max: 100
+- \b "~traffic_epsilon" : \b [double] traffic_epsilon min: 0.0, default: 0.4, max: 20.0
+- \b "~traffic_minClusterSize" : \b [int] traffic_minClusterSize min: 1, default: 10, max: 100
+- \b "~traffic_maxClusterSize" : \b [double] traffic_maxClusterSize min: 1.0, default: 1000.0, max: 10000.0
+- \b "~traffic_xMinROI" : \b [double] traffic_xMinROI min: -200.0, default: -0.3, max: 10.0
+- \b "~traffic_xMaxROI" : \b [double] traffic_xMaxROI min: -10.0, default: 6.25, max: 200.0
+- \b "~traffic_yMinROI" : \b [double] traffic_yMinROI min: -200.0, default: -5.0, max: 10.0
+- \b "~traffic_yMaxROI" : \b [double] traffic_yMaxROI min: -10.0, default: 5.0, max: 200.0
+- \b "~traffic_zMinROI" : \b [double] traffic_zMinROI min: -2.0, default: -0.5, max: 0.0
+- \b "~traffic_zMaxROI" : \b [double] traffic_zMaxROI min: -2.0, default: 1.0, max: 20.0
+- \b "~traffic_xMinBoundingBox" : \b [double] traffic_xMinBoundingBox min: 0.0, default: 0.05, max: 1000.0
+- \b "~traffic_xMaxBoundingBox" : \b [double] traffic_xMaxBoundingBox min: 0.0, default: 0.5, max: 3.0
+- \b "~traffic_yMinBoundingBox" : \b [double] traffic_yMinBoundingBox min: 0.0, default: 0.05, max: 10.0
+- \b "~traffic_yMaxBoundingBox" : \b [double] traffic_yMaxBoundingBox min: 0.0, default: 0.6, max: 3.0
+- \b "~traffic_zMinBoundingBox" : \b [double] traffic_zMinBoundingBox min: 0.0, default: 0.05, max: 0.1
+- \b "~traffic_zMaxBoundingBox" : \b [double] traffic_zMaxBoundingBox min: 0.0, default: 0.85, max: 3.0
+
